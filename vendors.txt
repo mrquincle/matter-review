@@ -1,0 +1,106 @@
+pagination:
+  next_key: null
+  total: "0"
+vendorInfo:
+- companyLegalName: Assa Abloy
+  companyPreferredName: ""
+  creator: cosmos18wrgwrrccn49ejv4hstz9czxgw9dc2s2l9f94k
+  vendorID: 4125
+  vendorLandingPageURL: http://www.yalehome.com
+  vendorName: Assa Abloy
+- companyLegalName: Legrand
+  companyPreferredName: ""
+  creator: cosmos1elm6sf9yd2n7y0l0rve4zru0ukanv76vtrjnt3
+  vendorID: 4129
+  vendorLandingPageURL: https://www.legrand.com
+  vendorName: Legrand Group
+- companyLegalName: NXP Semiconductors N.V.
+  companyPreferredName: ""
+  creator: cosmos1ck0arz4kky9l9qtdvqrct7783ffv2yftgmj9ch
+  vendorID: 4151
+  vendorLandingPageURL: https://www.nxp.com
+  vendorName: NXP Semiconductors
+- companyLegalName: Qorvo, Inc.
+  companyPreferredName: ""
+  creator: cosmos1qrpkuzgm7hfejejfyg20g34tjxlt4k8dsspq52
+  vendorID: 4304
+  vendorLandingPageURL: https://www.qorvo.com/
+  vendorName: Qorvo
+- companyLegalName: Universal Electronics Inc
+  companyPreferredName: ""
+  creator: cosmos1pvrad6x6ettwgudttqd97r9wvarvnj5davpltg
+  vendorID: 4334
+  vendorLandingPageURL: https://www.uei.com/
+  vendorName: UEI
+- companyLegalName: Comcast
+  companyPreferredName: ""
+  creator: cosmos1xcv4q8sjvf7nw4qj2yt5kledgwyf3ycxw8c0pe
+  vendorID: 4381
+  vendorLandingPageURL: ""
+  vendorName: Comcast Communications
+- companyLegalName: Lumi United Technology Co., Ltd.
+  companyPreferredName: ""
+  creator: cosmos1qpz3ghnqj6my7gzegkftzav9hpxymkx6zdk73v
+  vendorID: 4447
+  vendorLandingPageURL: https://www.aqara.com/
+  vendorName: Aqara
+- companyLegalName: Tuya Global Inc.
+  companyPreferredName: ""
+  creator: cosmos13pwvzq2zk0r3fxuc2a5jhadnx6tda5ar2tcpp9
+  vendorID: 4701
+  vendorLandingPageURL: ""
+  vendorName: Tuya
+- companyLegalName: Nordic Semiconductor ASA
+  companyPreferredName: ""
+  creator: cosmos1eatgwsxtjz0tlchllzasjfcac6m56n30njc3k2
+  vendorID: 4735
+  vendorLandingPageURL: https://www.nordicsemi.com
+  vendorName: Nordic Semiconductor ASA
+- companyLegalName: EGLO Leuchten GmbH
+  companyPreferredName: ""
+  creator: cosmos1veu2f7mtgvfw8ezjfmhs64cqyt9wp2weas2rga
+  vendorID: 4751
+  vendorLandingPageURL: https://www.eglo.com/en/
+  vendorName: EGLO
+- companyLegalName: Eve Systems GmbH
+  companyPreferredName: ""
+  creator: cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t
+  vendorID: 4874
+  vendorLandingPageURL: https://www.evehome.com
+  vendorName: Eve
+- companyLegalName: Espressif Systems (Shanghai) Co. Ltd.
+  companyPreferredName: ""
+  creator: cosmos1vncrg6hk30kutk4nr26mvyqc92zkygcc7aemzt
+  vendorID: 4891
+  vendorLandingPageURL: https://www.espressif.com
+  vendorName: Espressif Systems
+- companyLegalName: Guangzhou Elite Education & Technology Co., Ltd.
+  companyPreferredName: ""
+  creator: cosmos1qnd2v3n0f0ukja8z0jm4jqsqs5qhxa6ncvcxuv
+  vendorID: 4895
+  vendorLandingPageURL: https://longan.link/
+  vendorName: Longan.link
+- companyLegalName: GE Lighting, a Savant company
+  companyPreferredName: ""
+  creator: cosmos130t4m26ynex82jcgkqguxpffpva05e4zugn0xc
+  vendorID: 4921
+  vendorLandingPageURL: https://www.gelighting.com/
+  vendorName: GE Lighting, a Savant company
+- companyLegalName: deveritec GmbH
+  companyPreferredName: ""
+  creator: cosmos19740ad8368h0h33rcu6gugtxgvyuws7puqg0za
+  vendorID: 4962
+  vendorLandingPageURL: https://deveritec.de
+  vendorName: deveritec GmbH
+- companyLegalName: Tridonic GmbH & Co KG
+  companyPreferredName: ""
+  creator: cosmos16ad3em3nrqzf854p03audmgdl3pc384467yzav
+  vendorID: 4977
+  vendorLandingPageURL: https://www.tridonic.com
+  vendorName: Tridonic
+- companyLegalName: innovation matters iot GmbH
+  companyPreferredName: ""
+  creator: cosmos1v6x4nte50al0jjynvldwqse9n4ceajmja3wvph
+  vendorID: 4978
+  vendorLandingPageURL: https://www.innovation-matters.at/
+  vendorName: innovation matters
