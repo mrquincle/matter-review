@@ -1,3 +1,13 @@
+# Intro
+
+The new Matter standard does actually use **blockchain** technology for its compliance structure. The companies involved do not trust each other and for that reason have built something called a **distributed compliance ledger**. It is meant to be used for two things:
+* compliance certification of device models
+* a public key infrastructure
+
+This is built on top of Tendermint and the Cosmos SDK.
+
+Different from other ledgers, this does not use "proof of work" or "proof of stake", but **proof of authority**.
+
 # Install
 
 Get the code and install, check the `distributed-compliance-ledger` (dlc) github repository for more detailed instructions such as prerequisites like `go`, `jq`, etc.
