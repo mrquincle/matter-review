@@ -19,6 +19,8 @@ Not interested in running something locally, let us connect to something live. I
 ```
 dcld config chain-id main-net
 dcld config node https://on.dcl.csa-iot.org:26657
+dcld config output json
+dcld config
 dcld status
 ```
 
@@ -79,4 +81,26 @@ Let us query the main net:
 dcld query vendorinfo all-vendors
 ```
 
-The results of this can be found in `vendors.txt` in this repository.
+The results of this can be found in `vendors.txt` in this repository, summarized here:
+
+```
+dcld query vendorinfo all-vendors | jq -r '.vendorInfo[] | "* [" + .companyLegalName + "](" + .vendorLandingPageURL + ")"'
+```
+
+* [Assa Abloy](http://www.yalehome.com)
+* [Legrand](https://www.legrand.com)
+* [NXP Semiconductors N.V.](https://www.nxp.com)
+* [Qorvo, Inc.](https://www.qorvo.com/)
+* [Universal Electronics Inc](https://www.uei.com/)
+* [Comcast]()
+* [Lumi United Technology Co., Ltd.](https://www.aqara.com/)
+* [Tuya Global Inc.]()
+* [Nordic Semiconductor ASA](https://www.nordicsemi.com)
+* [EGLO Leuchten GmbH](https://www.eglo.com/en/)
+* [Eve Systems GmbH](https://www.evehome.com)
+* [Espressif Systems (Shanghai) Co. Ltd.](https://www.espressif.com)
+* [Guangzhou Elite Education & Technology Co., Ltd.](https://longan.link/)
+* [GE Lighting, a Savant company](https://www.gelighting.com/)
+* [deveritec GmbH](https://deveritec.de)
+* [Tridonic GmbH & Co KG](https://www.tridonic.com)
+* [innovation matters iot GmbH](https://www.innovation-matters.at/)
