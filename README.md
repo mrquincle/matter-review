@@ -104,3 +104,21 @@ dcld query vendorinfo all-vendors | jq -r '.vendorInfo[] | "* [" + .companyLegal
 * [deveritec GmbH](https://deveritec.de)
 * [Tridonic GmbH & Co KG](https://www.tridonic.com)
 * [innovation matters iot GmbH](https://www.innovation-matters.at/)
+
+Let's check the certificates:
+
+```
+dcld query pki all-x509-certs | jq '.' > all-x509-certs.json
+cat all-x509-certs.json| jq -r '.approvedCertificates[].certs[].approvals[] | .info?' | sort | uniq
+```
+
+* Approval from DSR
+* Approval from Samsung
+* Comcast Approval
+* CSA proposal for DigiCert Root CA
+* CSA proposal for StrongKey Root CA
+* CSA proposal for TP-Link Root CA
+* CSA propsal for Certification Declaration Root CA
+* Latch
+
+
