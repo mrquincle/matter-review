@@ -119,7 +119,7 @@ Let's check the certificates:
 
 ```
 dcld query pki all-x509-certs | jq '.' > all-x509-certs.json
-cat all-x509-certs.json| jq -r '.approvedCertificates[].certs[].approvals[] | .info?' | sort | uniq
+cat all-x509-certs.json | jq -r '.approvedCertificates[].certs[].approvals[] | .info?' | sort | uniq
 ```
 
 * Approval from DSR
@@ -131,4 +131,24 @@ cat all-x509-certs.json| jq -r '.approvedCertificates[].certs[].approvals[] | .i
 * CSA propsal for Certification Declaration Root CA
 * Latch
 
+In most blockchain systems there are some kind of events that are emitted. It's not different here.
 
+For example:
+
+```
+mkdir -p output
+dcld query txs --events 'message.action=/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount' | jq '.' > output/MsgProposeAddAccount.json
+```
+
+Take a look in `output/MsgProposeAddAccount.json` in this repository to understand its structure.
+
+# What's next?
+
+I'll be expanding this repository when I discover more on how this all works.
+
+# References
+
+* https://github.com/zigbee-alliance/distributed-compliance-ledger/
+* https://github.com/zigbee-alliance/distributed-compliance-ledger.wiki.git
+* https://v1.cosmos.network/sdk
+* https://tendermint.com or https://ignite.com/

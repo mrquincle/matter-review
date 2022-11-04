@@ -1,0 +1,3369 @@
+{
+  "total_count": "34",
+  "count": "30",
+  "page_number": "1",
+  "page_total": "2",
+  "limit": "30",
+  "txs": [
+    {
+      "height": "3",
+      "txhash": "98462B5130EADBEB96E621AC69C13B53E323CD26B38E36D2770B1F971DBF8057",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "27986",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos15hzlqqg27xm9e0eky3ynwepux4833ayygnzmcj",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AhjrecdqcZ/DfjkBh+wK2M6waQL4hM+xY1u/Sb3UF14h"
+              },
+              "roles": [
+                "Trustee"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for Comcast Trustee",
+              "time": "1660233538"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "0"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "5af7wrjdJEPTQW6Cm4RjP93jNo7JGl/85A61Q4mCip1woc+JTFkP2xlufx9MFGBrDt4sVc2Cxow1JUPTV/syqg=="
+        ]
+      },
+      "timestamp": "2022-08-11T15:53:48Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzA=",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "NWFmN3dyamRKRVBUUVc2Q200UmpQOTNqTm83SkdsLzg1QTYxUTRtQ2lwMXdvYytKVEZrUDJ4bHVmeDlNRkdCckR0NHNWYzJDeG93MUpVUFRWL3N5cWc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "5",
+      "txhash": "5F040E9A2F55E3A8E85628D12848F16C1EA78F928253DBC198167648DC77F51B",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "28577",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1hx657pawrp9294akamspsmj7y8y07mypwnh9a0",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AyyPTXTw5YGCpEW715VAhLoVhcir3Tnb/hYc7x9gZJMf"
+              },
+              "roles": [
+                "Trustee"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for DSR Trustee",
+              "time": "1660233577"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "1"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "jIQ6TVwPCeyesg1f5xixvo8OTfujC01GSGM1fshjW/85OGn6SoMReelIhsztOADH/wAq8dLCZKirHLsGlQjHJg=="
+        ]
+      },
+      "timestamp": "2022-08-11T15:59:04Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzE=",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "aklRNlRWd1BDZXllc2cxZjV4aXh2bzhPVGZ1akMwMUdTR00xZnNoalcvODVPR242U29NUmVlbEloc3p0T0FESC93QXE4ZExDWktpckhMc0dsUWpISmc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "7",
+      "txhash": "EB3CDDBC2202C483FF8CC8F196C96316C7C16EC144EFA55BEA7F64D80C9869E3",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "26462",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1rw0ssqkqakaqycaqpj7uhvc7puuyzhzlejtl53",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A30MLrmruPACykr/xe63ztAk2z8D1SKrUtxrrEZfw6uv"
+              },
+              "roles": [
+                "NodeAdmin"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for Comcast NodeAdmin",
+              "time": "1660233837"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "2"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "MrdgqLiI0sVqxnq4dT5APqdvC3KNhr+2Wff4z/miKrg3uVMa/m00vWQksfah/nPDFx+q+ell3FQ4haujqsoedg=="
+        ]
+      },
+      "timestamp": "2022-08-11T15:59:43Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzI=",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "TXJkZ3FMaUkwc1ZxeG5xNGRUNUFQcWR2QzNLTmhyKzJXZmY0ei9taUtyZzN1Vk1hL20wMHZXUWtzZmFoL25QREZ4K3ErZWxsM0ZRNGhhdWpxc29lZGc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "11",
+      "txhash": "4510CA601C8352CD3116E2EB8439A16C2F5989BD09F8CF7D5FBEDB72D93F18CA",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "27734",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1yu2c4nldygfh2tfl6llgh7x2zvjygrlwhpthgt",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AveLLzKFy/uiRR0SZJBKZAE/bp4JJGk3hJFJ3NjEKvV9"
+              },
+              "roles": [
+                "NodeAdmin"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for DSR NodeAdmin",
+              "time": "1660233872"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "3"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "WLhGyMo2+PeeTRXiR/ecCbJ8tbcuxynFZAWYQ9Y4D4ogLb6vRNr3UduVgTVnAo0EHtYHqbsU8Cg/tOAhm6NhCg=="
+        ]
+      },
+      "timestamp": "2022-08-11T16:04:15Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzM=",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "V0xoR3lNbzIrUGVlVFJYaVIvZWNDYko4dGJjdXh5bkZaQVdZUTlZNEQ0b2dMYjZ2Uk5yM1VkdVZnVFZuQW8wRUh0WUhxYnNVOENnL3RPQWhtNk5oQ2c9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "15",
+      "txhash": "077308D6767103DC0A18FDAD655D05DFBDDBFB07581FA8C14FB06152FF471389",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "28772",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1k66hqfxp2346fztgk2xsctf8n9chzxzyr5w270",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AoxnaSug4SX++sGsqmEZJeVi0ZG7/ircgNk7YRuC3unJ"
+              },
+              "roles": [
+                "NodeAdmin"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for Samsung NodeAdmin",
+              "time": "1660233928"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "4"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "zlDrq/c5oWT0mBf/+qxL++tVVbyrcFMqibMYG6ZhFFd321NAZi/WYxPCp6CxlvO6eN7L60nZ8L78aF3R91Np7w=="
+        ]
+      },
+      "timestamp": "2022-08-11T16:04:54Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzQ=",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "emxEcnEvYzVvV1QwbUJmLytxeEwrK3RWVmJ5cmNGTXFpYk1ZRzZaaEZGZDMyMU5BWmkvV1l4UENwNkN4bHZPNmVON0w2MG5aOEw3OGFGM1I5MU5wN3c9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "19",
+      "txhash": "487953FEC4B7FD31089BD506298C19A5D30B6CF9BBA9602488FDF68BE8B8C744",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "29624",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1hk2lep7f9gqafsnzm6p5h65nxkyq496awye9sf",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AzENSm3lDe68h3W4InO9GhoKsl4BAsIAa2A7E8WPGFqH"
+              },
+              "roles": [
+                "NodeAdmin"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for Latch NodeAdmin",
+              "time": "1660233964"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "5"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "qz1oReXuu+mDbI9Fye5G8tdK+ephgM1MoS69Dqch3rsBab6/tkVgAkcrIhVJZ3YJZsr8szpGeGB+TYL0oifRQg=="
+        ]
+      },
+      "timestamp": "2022-08-11T16:05:44Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzU=",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "cXoxb1JlWHV1K21EYkk5RnllNUc4dGRLK2VwaGdNMU1vUzY5RHFjaDNyc0JhYjYvdGtWZ0FrY3JJaFZKWjNZSlpzcjhzenBHZUdCK1RZTDBvaWZSUWc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "23",
+      "txhash": "4F88448C57B120C2283E94DCFEDE05ACED30EC57C5902EA44C388FB4172AB6B8",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "30500",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1rrac3hdy09vhzsf3g70dsvgt82zlgawgkap72v",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A6bdF70/Ej37ipPxmO+esyErs8LJfwiK27QGy7zlpWJT"
+              },
+              "roles": [
+                "NodeAdmin"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for Tuya NodeAdmin",
+              "time": "1660233999"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "6"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "evjJ2CFMNuFoLjT00VfY6Cwo0J7yiJACspM2anRk0Rl8Lvg4HclCbgP+5LHTWZ5xoMrWjp924mYD6RQ5OLdXpw=="
+        ]
+      },
+      "timestamp": "2022-08-11T16:06:33Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzY=",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "ZXZqSjJDRk1OdUZvTGpUMDBWZlk2Q3dvMEo3eWlKQUNzcE0yYW5SazBSbDhMdmc0SGNsQ2JnUCs1TEhUV1o1eG9NcldqcDkyNG1ZRDZSUTVPTGRYcHc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "27",
+      "txhash": "DBDECD8C10F33936154DD1FFC15E880F3FD9695E0AACF8931F4C699283765F59",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "31484",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos18agjaqga63t364utx0wezsep2grl2d8jhtknkk",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AsTOwWGC4ge7r/8aXjdQ+tOGqa5nWWa9/OZGqnKKAbf4"
+              },
+              "roles": [
+                "NodeAdmin"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for Charter NodeAdmin",
+              "time": "1660234052"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "7"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "lRUVBMN5CCS9b113vbyuNKKjAYfznDvf1TGO/EJkQ1dHjnoHiu7F4Wg8ICk9MUm1gOasyW4PUieGv/l5yxrixg=="
+        ]
+      },
+      "timestamp": "2022-08-11T16:07:03Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1Lzc=",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "bFJVVkJNTjVDQ1M5YjExM3ZieXVOS0tqQVlmem5EdmYxVEdPL0VKa1ExZEhqbm9IaXU3RjRXZzhJQ2s5TVVtMWdPYXN5VzRQVWllR3YvbDV5eHJpeGc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "31",
+      "txhash": "781B8CC3F9294DDB906B42D99340EC550DFDA78E50826A589B8696BCD1E4116C",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "32306",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos12u47f8409hwj3tt2q2xunm9twld9p0jvw856s5",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Aj/8DxOyDOP2WuQvyDTHVWWsMcCM5ONqyEpfz2rFdYVh"
+              },
+              "roles": [
+                "NodeAdmin"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for Lumi NodeAdmin",
+              "time": "1660234077"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "8"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "UrgUk1CVT9vqze7ifXfZoch+AbaAw13+dE0s40lYqZFyg7YCf186R06MxtOTRhrv0/NpaSjJI3eJTBGlW+Na0w=="
+        ]
+      },
+      "timestamp": "2022-08-11T16:07:51Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1Lzg=",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "VXJnVWsxQ1ZUOXZxemU3aWZYZlpvY2grQWJhQXcxMytkRTBzNDBsWXFaRnlnN1lDZjE4NlIwNk14dE9UUmhydjAvTnBhU2pKSTNlSlRCR2xXK05hMHc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "49",
+      "txhash": "4BFD1A72D74827941AC1FEF4DE4911E913B4744870050EB2ED9ED6014EC3E974",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "33215",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1r4536sk78smtaeu6xnky2pdgm3z4kdjncv9mk6",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A3qF174sZOwH9/H4X1Dsu7+v51UfqSo9Af/OeqSacoI1"
+              },
+              "roles": [
+                "Trustee"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for Samsung Trustee",
+              "time": "1660236577"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "9"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "sbl1i5d2lAmvnKIXMQluRQ1B8uLdRozmoqfi52WB4qQGUiDkPgU8n0YwUuib4Geg0J+obXJx7xp+R/JBvPWEMw=="
+        ]
+      },
+      "timestamp": "2022-08-11T16:47:09Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1Lzk=",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "c2JsMWk1ZDJsQW12bktJWE1RbHVSUTFCOHVMZFJvem1vcWZpNTJXQjRxUUdVaURrUGdVOG4wWXdVdWliNEdlZzBKK29iWEp4N3hwK1IvSkJ2UFdFTXc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "55",
+      "txhash": "EF18F592AF79EC905A156E38391291F5CF6C6FAD0517F430582866D27AEB8536",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "34073",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1wjcn2yv96xllzr24pjpgdqcnq2s9qpg0z9uk8m",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AuDypnaGNfo4tv6Q57ZU2UNyHZNbPapYayS9g6uGHEMF"
+              },
+              "roles": [
+                "Trustee"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for Latch Trustee",
+              "time": "1660237049"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "10"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "qcgVnuHBnH8KYTEttUPTBiV/S/qb2nEfR3t9Qbk9GJsfKkzngeuqBK9zScHQhCVaz8w9izCcy0SnH4MoqMg+iQ=="
+        ]
+      },
+      "timestamp": "2022-08-11T16:55:40Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzEw",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "cWNnVm51SEJuSDhLWVRFdHRVUFRCaVYvUy9xYjJuRWZSM3Q5UWJrOUdKc2ZLa3puZ2V1cUJLOXpTY0hRaENWYXo4dzlpekNjeTBTbkg0TW9xTWcraVE9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "632",
+      "txhash": "CA26EA7DCD349D2616E9A0C64AF0C2D37B62909EE58B4ED953EFD296EDCA8A62",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "34400",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1z34c0ud0sh09am2rxz2ueh94rkx7lkhn3vg6up",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A+o7hndGULDMGh/t+jZjcKvW3D9TAkv+Q0zjTz8TCNIw"
+              },
+              "roles": [
+                "NodeAdmin"
+              ],
+              "vendorID": 0,
+              "info": "CSA proposal for Lumi NodeAdmin",
+              "time": "1660580747"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "12"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "JB0ETuv4/LE/8DtqPlfpDPYtEpXpogi4rwLjpcFA1655caMUGwfhHEYV3N6tXx7t8nwUifQeKcGsVom7Rgm7oQ=="
+        ]
+      },
+      "timestamp": "2022-08-15T16:18:01Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzEy",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "SkIwRVR1djQvTEUvOER0cVBsZnBEUFl0RXBYcG9naTRyd0xqcGNGQTE2NTVjYU1VR3dmaEhFWVYzTjZ0WHg3dDhud1VpZlFlS2NHc1ZvbTdSZ203b1E9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "1773",
+      "txhash": "13591B0752BAA50597BE188D6F4AE8DC2B1D415FBEEABC78F92B272043A9CE01",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "35735",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1xcv4q8sjvf7nw4qj2yt5kledgwyf3ycxw8c0pe",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AhHOC1Vh2LG+jPlXxHeislxY7hbYjLXMTnRcXyOGDqIq"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4381,
+              "info": "CSA proposal for Comcast Vendor",
+              "time": "1661267604"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "13"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "hbGYOhrXSbZ9IP+03KL5dWXlfV+4FnTxK2KhzPsMIegAcHlbPrK5jKQ+cZIH5wdeJIKYyjvISRmwuPyU27RksA=="
+        ]
+      },
+      "timestamp": "2022-08-23T15:12:38Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzEz",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "aGJHWU9oclhTYlo5SVArMDNLTDVkV1hsZlYrNEZuVHhLMktoelBzTUllZ0FjSGxiUHJLNWpLUStjWklINXdkZUpJS1l5anZJU1Jtd3VQeVUyN1Jrc0E9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "1775",
+      "txhash": "37D95AE2C981A1FF19EC522C0CD2DB3EF7FE91D84CB72A87BD38E8BF1D45D40A",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "35795",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1vncrg6hk30kutk4nr26mvyqc92zkygcc7aemzt",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A4WqjGvDw6Vfp2me2CCbwR3whHAEsnjd9X+NiQgW0oA2"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4891,
+              "info": "CSA proposal for Espressif Vendor",
+              "time": "1661267715"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "14"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "dXZ+wFTsqjenY83saRtUmfbl9OaZ0kuBFavsK2QQy4MPOjlsK1mY7AsFQyWoqzq4eAFwXc7Fms4Np4Qm+FhDQA=="
+        ]
+      },
+      "timestamp": "2022-08-23T15:13:26Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzE0",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "ZFhaK3dGVHNxamVuWTgzc2FSdFVtZmJsOU9hWjBrdUJGYXZzSzJRUXk0TVBPamxzSzFtWTdBc0ZReVdvcXpxNGVBRndYYzdGbXM0TnA0UW0rRmhEUUE9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "1783",
+      "txhash": "7D7092ADA67045E31E74D1080A7787A3EBE907506453D86DA5493093978C7B33",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "37631",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos18wrgwrrccn49ejv4hstz9czxgw9dc2s2l9f94k",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Aw9ajuhryKLUZXDp962A7ky/wMYmKneGGD5ofjc321ph"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4125,
+              "info": "CSA proposal for Assa Abbloy Vendor",
+              "time": "1661267931"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "15"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "5dPuXit9NSoKzbBZdY5fmTxIJelqKlGpZm9FaqlcQxk3P+UZEKURk0sYXb1gKS0rpA/CzvoYqWnCFU8L5zFZdw=="
+        ]
+      },
+      "timestamp": "2022-08-23T15:18:15Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzE1",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "NWRQdVhpdDlOU29LemJCWmRZNWZtVHhJSmVscUtsR3BabTlGYXFsY1F4azNQK1VaRUtVUmswc1lYYjFnS1MwcnBBL0N6dm9ZcVduQ0ZVOEw1ekZaZHc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "1785",
+      "txhash": "EF403201DE1DFD2C62E467E802B7B7F7CD9564DA08853BC215347F6B46EE0B0F",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "37931",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1pvrad6x6ettwgudttqd97r9wvarvnj5davpltg",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A/Nfv9vrUttjkVa+NgGxLqLgvNH7ETy8s+zl3fP0R68d"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4334,
+              "info": "CSA proposal for Universal Electronics Vendor",
+              "time": "1661268030"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "16"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "ZMQsw9T8FSK0HWb5cQiIRfoYnEPn5RpUpLlYjkf6DsdXGDaQHR0ActVTsSeZkcCjOhdrU68yP3/ktxt91QHMzQ=="
+        ]
+      },
+      "timestamp": "2022-08-23T15:18:53Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzE2",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "Wk1Rc3c5VDhGU0swSFdiNWNRaUlSZm9ZbkVQbjVScFVwTGxZamtmNkRzZFhHRGFRSFIwQWN0VlRzU2Vaa2NDak9oZHJVNjh5UDMva3R4dDkxUUhNelE9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "1791",
+      "txhash": "C4E86A4B433A0AAF74FDC871AA9F06B85592434745EF444BE5A617F4F7242B25",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "37637",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1yh0ld8jl26rgycrtank8slxepmc8xzgyrzv99t",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AwiOrBzRhaAQIlyw7KnuiY4kecbJJP0IMm2Wdti5TbH6"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4874,
+              "info": "CSA proposal for Eve Systems Vendor",
+              "time": "1661268599"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "17"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "gR64a5mZREow5VMhoVcDe5UaCrNVqYdYlqdolOfRTQoDN/tFoMZhv9kEAOBlvqFVgohA+m4yRqC4oIROZdVHtg=="
+        ]
+      },
+      "timestamp": "2022-08-23T15:26:16Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzE3",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "Z1I2NGE1bVpSRW93NVZNaG9WY0RlNVVhQ3JOVnFZZFlscWRvbE9mUlRRb0ROL3RGb01aaHY5a0VBT0JsdnFGVmdvaEErbTR5UnFDNG9JUk9aZFZIdGc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "1800",
+      "txhash": "698B4D132A91E6BD01F19847BF2F343A19A08CCD3602C8873313FF1757709093",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "39983",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1qrpkuzgm7hfejejfyg20g34tjxlt4k8dsspq52",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AxIwAKjcUR2Kq02ixctogMVRn71ZHlEKbz9QMwp0Zo6Y"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4304,
+              "info": "CSA proposal for Qorvo Vendor",
+              "time": "1661268711"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "18"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "8pxFklOlWujCOsKuFfceNOKEfRf7f5skR4x1X3e3sLwlVocQaqscxc2EzQYGdOZjgBaM+tz2rxn/+QHs6GJGvA=="
+        ]
+      },
+      "timestamp": "2022-08-23T15:31:43Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzE4",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "OHB4RmtsT2xXdWpDT3NLdUZmY2VOT0tFZlJmN2Y1c2tSNHgxWDNlM3NMd2xWb2NRYXFzY3hjMkV6UVlHZE9aamdCYU0rdHoycnhuLytRSHM2R0pHdkE9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "1804",
+      "txhash": "61A210718065E63C015323B27DDD3F6700F457595C0E525AF67F51B0E550ED10",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "41249",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1qnd2v3n0f0ukja8z0jm4jqsqs5qhxa6ncvcxuv",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A8zbslWaho6wsuXueIFv92YRKAn7Io+deFgV5/iObUV/"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4895,
+              "info": "CSA proposal for Guangzhou Elite Education & Technology Co., Ltd Vendor",
+              "time": "1661268838"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "19"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "4gJ0KaXvjfyQKVvPQZeK3JBotWQwN1UwEGmgLfhnLCIr35UyvZfPvKMBAqvJDgSHPI/9Xn6y5zaGwA0gqShZfg=="
+        ]
+      },
+      "timestamp": "2022-08-23T15:32:59Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzE5",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "NGdKMEthWHZqZnlRS1Z2UFFaZUszSkJvdFdRd04xVXdFR21nTGZobkxDSXIzNVV5dlpmUHZLTUJBcXZKRGdTSFBJLzlYbjZ5NXphR3dBMGdxU2haZmc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "1806",
+      "txhash": "14D736D4DAD074C6D8652B7B9F2FE15376A4A2808B0F0B027ABBF57A28D28C92",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "40229",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1elm6sf9yd2n7y0l0rve4zru0ukanv76vtrjnt3",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AwlQsd3fWEbAtxEjLKqmH1DDyRXE2v+kvhgtK85YbtG4"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4129,
+              "info": "CSA proposal for Legrand Group Vendor",
+              "time": "1661268929"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "20"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "29Ru0xYRjdgJZ0XikxfSlqEmvZRFc4pvRJkeSqiEn3Buvssg+n78aVGUvcppsfQQVDuSNoMS3/wIlZx9520OVw=="
+        ]
+      },
+      "timestamp": "2022-08-23T15:34:00Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzIw",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "MjlSdTB4WVJqZGdKWjBYaWt4ZlNscUVtdlpSRmM0cHZSSmtlU3FpRW4zQnV2c3NnK243OGFWR1V2Y3Bwc2ZRUVZEdVNOb01TMy93SWxaeDk1MjBPVnc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "1825",
+      "txhash": "BCC7435AF61D84568AFF1A10F03F5F5C8059F89A0921653D11AA32D536BD64D3",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "42797",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1x09ct34xh35xn5cnrtmj4m37ay0jv5qyga0zna",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A8UWQi41JfWIntBDbwR1e+hIsnf2g8XZIGogdDvvq1/D"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4107,
+              "info": "CSA proposal for Signify Vendor",
+              "time": "1661271483"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "21"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "s4dRR31TrRoOrgPCbiMJGSVGnw/Fuvn+VWP8fe3KiMRRkwcLVtzx00bbRXB67789M1s4oqhELkGO1jfgvulBhg=="
+        ]
+      },
+      "timestamp": "2022-08-23T16:16:25Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzIx",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "czRkUlIzMVRyUm9PcmdQQ2JpTUpHU1ZHbncvRnV2bitWV1A4ZmUzS2lNUlJrd2NMVnR6eDAwYmJSWEI2Nzc4OU0xczRvcWhFTGtHTzFqZmd2dWxCaGc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "1975",
+      "txhash": "6CAC4008100483B2274A7FC40185B0658B83598EF537D27C9CBBB4F703606FA8",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "42797",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1tuf2cyn4q0fnfqv6fzmy5l7reck4h3ckmaqwj9",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A/dVBP9YgTCEEBbs2/40Oujq6vo0iKibxTf2kB7qnAvR"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4321,
+              "info": "CSA proposal for Samsung Vendor",
+              "time": "1661357154"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "23"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "b2lH/V9N0DFSHPKCwRkpyLegVfWNUTGJyov35UrwLnZ1vMtzhjS4tPFtXbCVxpw0VAXhAJDKQMRApD8Dc5GRGg=="
+        ]
+      },
+      "timestamp": "2022-08-24T15:56:11Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzIz",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "YjJsSC9WOU4wREZTSFBLQ3dSa3B5TGVnVmZXTlVUR0p5b3YzNVVyd0xuWjF2TXR6aGpTNHRQRnRYYkNWeHB3MFZBWGhBSkRLUU1SQXBEOERjNUdSR2c9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "1977",
+      "txhash": "09C8AFBEE6C8B8C7FDE048686EB70AC2C28CE41454A0BC88C0B7667B7D316B63",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "42797",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1jxpj6rr8vnetz9a2ec08az5fwqpuf4zt4hhygv",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A41KIpSCL0aDDD1n5Bn0Z9gwfaRZaawJjhfRzsmg2/nm"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4488,
+              "info": "CSA proposal for TP-Link Vendor",
+              "time": "1661357224"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "24"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "ohreCIBHoV0hvErQHgbnS8VZuncWmjJFF+yDbCnxtVsbxKCSbuXh+aEsAxde0LSWReyEuCf6VpohIBEAtZYbgw=="
+        ]
+      },
+      "timestamp": "2022-08-24T16:05:56Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzI0",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "b2hyZUNJQkhvVjBodkVyUUhnYm5TOFZadW5jV21qSkZGK3lEYkNueHRWc2J4S0NTYnVYaCthRXNBeGRlMExTV1JleUV1Q2Y2VnBvaElCRUF0WlliZ3c9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "2119",
+      "txhash": "AF86B3F6DE6CA101E5C0E794DB83B9D9F919A3E8AAF77D941E303012FF26874C",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "44471",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1qpz3ghnqj6my7gzegkftzav9hpxymkx6zdk73v",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A4kORFGlWtSVvC3ANCfb9Zh9HoNKuQacj+2GxTCVXMop"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4447,
+              "info": "CSA proposal for Lumi Vendor",
+              "time": "1661439868"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "25"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "6lq3TRRgV2xrxIvbj5LdWVp2D/47TFVgK+uePFSpkyIPQPJQGo5qWMA3B1xF87nn6JNj8Fg3CbnL+3sfaXRQrA=="
+        ]
+      },
+      "timestamp": "2022-08-25T15:02:42Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzI1",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "NmxxM1RSUmdWMnhyeEl2Ymo1TGRXVnAyRC80N1RGVmdLK3VlUEZTcGt5SVBRUEpRR281cVdNQTNCMXhGODdubjZKTmo4RmczQ2JuTCszc2ZhWFJRckE9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "2278",
+      "txhash": "5D59098111D1A995F3E124F61827B40FF86D6A375B070D6A860E6E1A2885D974",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "45347",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos13pwvzq2zk0r3fxuc2a5jhadnx6tda5ar2tcpp9",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A471OK5eFNmTTlAZJBmwJ3k6mJ8s9BY2vTPf7ZIOVcL7"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4701,
+              "info": "CSA proposal for Tuya Vendor",
+              "time": "1661533376"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "26"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "W/rzCVZ7Ac/owvYiYwj/WRemKqPSA97xaSALutmCjvMrgAbBpiMsb5tyaOfD93gQMmK0Fp+F4QUQ1MQvLLHroQ=="
+        ]
+      },
+      "timestamp": "2022-08-26T16:55:44Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzI2",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "Vy9yekNWWjdBYy9vd3ZZaVl3ai9XUmVtS3FQU0E5N3hhU0FMdXRtQ2p2TXJnQWJCcGlNc2I1dHlhT2ZEOTNnUU1tSzBGcCtGNFFVUTFNUXZMTEhyb1E9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "3839",
+      "txhash": "5D544A0DD2EB491EA46A0D9D770F34851EE57491235C4F5F0B08654611C765A3",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "46406",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1f8u5m4ktfwlmqjjdvg4epjkkx7qf8tzv55n5da",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AndYBgjMNK+iYQIAtUyMVBoyMNzaHsSUFKgTuLFQLZ+Z"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4456,
+              "info": "CSA proposal for Leedarson Vendor",
+              "time": "1662472608"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "29"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "iqMjQ+rCkOZxnJFj0W8FhvCskYSz0wLuvr2uX4wv4AkfEgJp54a+ECoe7jUXnZ0yTmJFNQZTanTOw9bVgg9Q7Q=="
+        ]
+      },
+      "timestamp": "2022-09-06T13:56:41Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzI5",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "aXFNalErckNrT1p4bkpGajBXOEZodkNza1lTejB3THV2cjJ1WDR3djRBa2ZFZ0pwNTRhK0VDb2U3alVYbloweVRtSkZOUVpUYW5UT3c5YlZnZzlRN1E9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "4003",
+      "txhash": "D718D837CA9C0E417C7A9669EED70E50426C57FF8CC11E14DED3AAB79E1E90FC",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "47744",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos1eatgwsxtjz0tlchllzasjfcac6m56n30njc3k2",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A4vlWBNfNvadVvzegQgnmAoZi1DfZXLS2T89c72T07i8"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4735,
+              "info": "CSA proposal for Nordic Semiconductor ASA Vendor",
+              "time": "1662570444"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "30"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "3o3Nh1BorBzJVjL7sS05woiXuxYaGTqlCFQmlYEYQWobsVQIpQhpE3X3LsmzpKjQ0RXnvjrPCAlWCojgOAuZsg=="
+        ]
+      },
+      "timestamp": "2022-09-07T17:00:55Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzMw",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "M28zTmgxQm9yQnpKVmpMN3NTMDV3b2lYdXhZYUdUcWxDRlFtbFlFWVFXb2JzVlFJcFFocEUzWDNMc216cEtqUTBSWG52anJQQ0FsV0NvamdPQXVac2c9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "4005",
+      "txhash": "24253D95E04C6BA59F4EFE8ED021034A08721CC498261049D6CD206E80966F7F",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "47444",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos19740ad8368h0h33rcu6gugtxgvyuws7puqg0za",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "A4ioqS0A3DFXe/8ThJpn2/JOEzS2sS0mXYU6RnFrkwGP"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4962,
+              "info": "CSA proposal for deveritec GmbH Vendor",
+              "time": "1662570545"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "31"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "g4xmSoHryH4FE0vmg2b1SNw0sIzJWj5JdrW33RuQj0o0lTwcvQtKQN1x97nfRSCslW3QegyvRUwMyq2BAiicig=="
+        ]
+      },
+      "timestamp": "2022-09-07T17:07:30Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzMx",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "ZzR4bVNvSHJ5SDRGRTB2bWcyYjFTTncwc0l6SldqNUpkclczM1J1UWowbzBsVHdjdlF0S1FOMXg5N25mUlNDc2xXM1FlZ3l2UlV3TXlxMkJBaWljaWc9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "4710",
+      "txhash": "F63C2FE3CAD12CC58772DFBEF9AA9ADFF2F64324F69BD616ABAAAB06A24E3D05",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "49256",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos16ad3em3nrqzf854p03audmgdl3pc384467yzav",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "ApVs7LhvdI3FKF5kTx3s1Afb6/ieWR6F3aIutBfg/8SU"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4977,
+              "info": "CSA proposal for Tridonic GmbH Vendor",
+              "time": "1662991638"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "32"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "3n98lxQelJpjhQwirEHSakcmC1Qsh6DTh+swHNEK/PRdClBKPyJ+cTpDygWt7jHU9FUgRmnyfHT/HORqAovG2A=="
+        ]
+      },
+      "timestamp": "2022-09-12T13:58:20Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzMy",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "M245OGx4UWVsSnBqaFF3aXJFSFNha2NtQzFRc2g2RFRoK3N3SE5FSy9QUmRDbEJLUHlKK2NUcER5Z1d0N2pIVTlGVWdSbW55ZkhUL0hPUnFBb3ZHMkE9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "height": "6274",
+      "txhash": "6952E436EE5033AC8EFA2D7B4949E94578EBD824DF54961A078F91281CD71937",
+      "codespace": "",
+      "code": 0,
+      "data": "0A4A0A482F7A6967626565616C6C69616E63652E6469737472696275746564636F6D706C69616E63656C65646765722E64636C617574682E4D736750726F706F73654164644163636F756E74",
+      "raw_log": "[{\"events\":[{\"type\":\"message\",\"attributes\":[{\"key\":\"action\",\"value\":\"/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount\"}]}]}]",
+      "logs": [
+        {
+          "msg_index": 0,
+          "log": "",
+          "events": [
+            {
+              "type": "message",
+              "attributes": [
+                {
+                  "key": "action",
+                  "value": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "info": "",
+      "gas_wanted": "0",
+      "gas_used": "49985",
+      "tx": {
+        "@type": "/cosmos.tx.v1beta1.Tx",
+        "body": {
+          "messages": [
+            {
+              "@type": "/zigbeealliance.distributedcomplianceledger.dclauth.MsgProposeAddAccount",
+              "signer": "cosmos10y99lgptfnylv28qecpjk7gsexvvcz9s6w4vgu",
+              "address": "cosmos18qu47pmqwylzm9w2tezyrmvcwmkew5yyvw3d6n",
+              "pubKey": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "AoTpGoWm5lB4oeZvXVaL40roslQrR21kvZq+jAoBdn3q"
+              },
+              "roles": [
+                "Vendor"
+              ],
+              "vendorID": 4933,
+              "info": "CSA proposal for Meross Vendor",
+              "time": "1663936261"
+            }
+          ],
+          "memo": "",
+          "timeout_height": "0",
+          "extension_options": [],
+          "non_critical_extension_options": []
+        },
+        "auth_info": {
+          "signer_infos": [
+            {
+              "public_key": {
+                "@type": "/cosmos.crypto.secp256k1.PubKey",
+                "key": "Ai9owZR9poIIXU5hFAPuX6t7ZQl5o1a+eE5gNFSZ1YM2"
+              },
+              "mode_info": {
+                "single": {
+                  "mode": "SIGN_MODE_DIRECT"
+                }
+              },
+              "sequence": "33"
+            }
+          ],
+          "fee": {
+            "amount": [],
+            "gas_limit": "200000",
+            "payer": "",
+            "granter": ""
+          }
+        },
+        "signatures": [
+          "8WboKYd0k8GE5bMiznWcW8tZJyTj9HgLHc122M0tR7cL/DQ+eaC1/NvHmDJfC5cdDYB+y6pIfEUOzn4XrKLmkA=="
+        ]
+      },
+      "timestamp": "2022-09-23T12:30:18Z",
+      "events": [
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "YWNjX3NlcQ==",
+              "value": "Y29zbW9zMTB5OTlsZ3B0Zm55bHYyOHFlY3Bqazdnc2V4dnZjejlzNnc0dmd1LzMz",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "tx",
+          "attributes": [
+            {
+              "key": "c2lnbmF0dXJl",
+              "value": "OFdib0tZZDBrOEdFNWJNaXpuV2NXOHRaSnlUajlIZ0xIYzEyMk0wdFI3Y0wvRFErZWFDMS9OdkhtREpmQzVjZERZQit5NnBJZkVVT3puNFhyS0xta0E9PQ==",
+              "index": true
+            }
+          ]
+        },
+        {
+          "type": "message",
+          "attributes": [
+            {
+              "key": "YWN0aW9u",
+              "value": "L3ppZ2JlZWFsbGlhbmNlLmRpc3RyaWJ1dGVkY29tcGxpYW5jZWxlZGdlci5kY2xhdXRoLk1zZ1Byb3Bvc2VBZGRBY2NvdW50",
+              "index": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
